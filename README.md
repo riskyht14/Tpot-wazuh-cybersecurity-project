@@ -18,8 +18,6 @@ through centralized dashboards.
 - Live attack simulation and capture
 - Centralized log monitoring
 - Security alert generation
-- Threat modeling using STRIDE
-- Incident response workflow implementation
 
 ## Technologies Used
 - Linux
